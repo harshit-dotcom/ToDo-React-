@@ -1,0 +1,39 @@
+.TodosSection {
+    display: flex;
+}
+
+.Todos{
+    width: 82vw;
+}
+
+.AddtodoHead{
+    margin-top: 10vh;
+}
+
+.newTodo{
+    right: 0;
+    position: fixed;
+    height: 83vh;
+    width: 18vw;
+    background-color: rgb(255, 235, 205);
+    
+}
+
+.cardv{
+    float: left;
+}
+
+.addTodoForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+}
+
+
+.ft {
+    position: fixed;
+    bottom: -15px;
+    width: 100%;
+  }
